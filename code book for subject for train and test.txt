@@ -1,0 +1,5 @@
+DATA DICTIONARY FOR subject_train.txt and subject_test.txt
+	
+Subject Label, measurements are per line
+	Integer
+	1..30
